@@ -1,4 +1,4 @@
-# Team152 - Salsa20 Algorithmus
+# Salsa20 Algorithmus
 
 Verschlüssele und entschlüssele Nachrichten über den Salsa20 Algorithmus von Daniel J. Bernstein.
 
