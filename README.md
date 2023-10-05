@@ -3,13 +3,6 @@
 Verschlüssele und entschlüssele Nachrichten über den Salsa20 Algorithmus von Daniel J. Bernstein.
 
 
-## Projektverzeichnis
-
-- `Ausarbeitung/`: Ausarbeitung als Latex und PDF
-- `Implementierung/`: Haupt- und Vergleichsimplementierungen in C
-- `Vortrag/`: PDF-Folien für die Abschlusspräsentation
-
-
 ## Über Salsa20
 Bei Salsa20 handelt es sich um eine **symmetrische Stromverschlüsselung**.<br />
 Das heißt ein Klartext kann in einen Geheimtext verschlüsselt werden.<br /> Das gleiche gilt umgekehrt, ein bereits mit Salsa20 verschlüsselter Text kann über den Algortihmus entschlüsselt werden.
