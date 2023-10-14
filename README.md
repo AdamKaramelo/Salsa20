@@ -105,8 +105,9 @@ Optionen die **nicht** `"Optional"` sind müssen immer spezifiert werden.
 | Version | Beschreibung                            |
 |---------|-----------------------------------------|
 | 0       | SIMD optimierte Version                 |
-| 1       |                                         |
-| 2       |                                         |
+| 1       | SIMD naiv                               |
+| 2       | Ohne Matrix-Transposition Optimierung   |
+| 3       | Erste naive Implementierung             |
 
 
 ### Entwicklerteam
